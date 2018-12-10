@@ -11,7 +11,7 @@ html, body {
   .header {
     background-color: #00c2b2;
     background-size: cover;
-    height: 5000px;
+    height: cover;
     text-align: center; 
   }
   
