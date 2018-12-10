@@ -17,10 +17,7 @@ html, body {
   
   .header h5 {
     color: grey;
-    line-height: 100px; 
     font-size: 20px;
-    margin-top: 0;
-    margin-bottom: 80px;
   }
   .header h1 {
     color: grey;
