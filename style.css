@@ -1,4 +1,8 @@
 
-<style>
-    { background-color: #00B2C2; }
+.header {
+        background: #00B2C2; 
+        background-size: cover; 
+        height: 800px;
+        text-align: center;
+}
             
