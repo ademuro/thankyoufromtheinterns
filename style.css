@@ -70,8 +70,8 @@ html, body {
 }
 
   .footer { 
-    position: fixed;
-    left: 0;
+    position: -webkit-sticky; 
+    position: sticky;
     bottom: 0;
     width: 100%;
     background: black;
