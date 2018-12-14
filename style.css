@@ -5,7 +5,7 @@ html, body {
   
   body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 200;
   }
   
   .header {
@@ -16,6 +16,7 @@ html, body {
   }
   
   .header h5 {
+    background-color
     color: grey;
     font-size: 20px;
   }
@@ -38,6 +39,24 @@ html, body {
     margin-left: 80px;
     margin-right: 80px;
   }
+
+.form{ 
+    background-color: #00c2b2;
+    background-size: cover;
+    height: cover;
+    text-align: center;
+}
+.form p{
+    color: #fff;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 4px;
+    margin-bottom: 40px;
+    margin-top: 0;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
   .footer { 
     background: black;
     height: 80px; 
