@@ -70,6 +70,7 @@ html, body {
 }
 
   .footer { 
+    position: fixed;
     background: black;
     height: 80px; 
     padding-bottom: 50px;
