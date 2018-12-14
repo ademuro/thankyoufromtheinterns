@@ -26,7 +26,7 @@ html, body {
     font-size: 20px;
   }
   .header h1 {
-    color: #fff;
+    color: black;
     line-height: 100px; 
     font-size: 80px;
     margin-top: 0;
@@ -35,14 +35,14 @@ html, body {
   }
   
   .header h2 {
-    color: #fff;
+    color: black;
     line-height: 100px; 
     font-size: 30px;
     margin-top: 0;
     margin-bottom: 80px;
   }
   .header p {
-    color: #fff;
+    color: black;
     font-weight: 400;
     font-size: 30px;
     letter-spacing: 4px;
@@ -59,7 +59,7 @@ html, body {
     text-align: center;
 }
 .form p{
-    color: #fff;
+    color: black;
     font-weight: 400;
     font-size: 30px;
     letter-spacing: 4px;
